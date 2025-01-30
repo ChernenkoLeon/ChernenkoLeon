@@ -12,6 +12,7 @@ I'm an avid python programmer, who's also trying his hand at both game design an
     
 - **Java:** Solid understanding and implementation of OOP 
 - **SQLite:** Good proficiency in utilizing the language to access data and format queries
+- **Anisble, YAML inventory:** Learning to write my own playbooks
 - **C#, Unity:** Good proficiency with game design technologies
 
 ### 📈 Github Stats
