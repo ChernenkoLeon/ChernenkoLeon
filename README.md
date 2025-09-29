@@ -10,11 +10,11 @@ I'm an avid python programmer, who's also trying his hand at both game design an
   - Pandas: Data analysis and manipulation tool
   - Plotly: Graphing library to highly stylized and infomative graphs
     
-- **Java:** Solid understanding and implementation of OOP 
+- **Java, C++:** Solid understanding and implementation of Object Oriented Programming 
 - **SQLite:** Good proficiency in utilizing the language to access data and format queries
 - **Anisble, YAML inventory:** Learning to write my own playbooks
 - **C#, Unity:** Good proficiency with game design technologies
-- **C, C++:** Basic understanding of OS concepts and Memory Managment
+- **C:** Basic understanding of OS concepts and Memory Managment
 
 ### 📈 Github Stats
 ---
