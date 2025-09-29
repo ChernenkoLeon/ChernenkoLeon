@@ -3,7 +3,7 @@
 I'm an avid python programmer, who's also trying his hand at both game design and data science
 
 
-### 🌐Technolgies & Languages
+### 🌐Technologies & Languages
 ---
 - **Python:** Versatile language with its large selection of libraries 
   - Sklearn: Machine learning library I learned from AICamp
