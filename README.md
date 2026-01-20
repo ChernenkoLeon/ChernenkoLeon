@@ -1,6 +1,5 @@
 ### Hey there! I'm Leon 👋
 ---
-I'm an avid python programmer, who's also trying his hand at both game design and data science
 
 
 ### 🌐Technologies & Languages
